@@ -6,7 +6,7 @@ public class ContadorOro : MonoBehaviour
 
     private void Cobrar()
     {
-        oro += 1;
+        oro += 2;
     }
 
     private void OnGUI()
